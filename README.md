@@ -1,4 +1,5 @@
 # Quering multiple APIs
+link to [Demo](https://segwuonwu.github.io/Quering-multiple-API-with-Javascript/)
 
 Developing a one-page web application that receives JSON data and renders the data into the DOM. You will be using the following API: https://jsonplaceholder.typicode.com/
 
